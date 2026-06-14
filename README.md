@@ -212,5 +212,5 @@ GNU General Public License v3.0
 
 ## Authors
 
-Mustafa Dal
-Mateusz Miroslaw Lis
+- Mustafa Dal
+- Mateusz Miroslaw Lis
