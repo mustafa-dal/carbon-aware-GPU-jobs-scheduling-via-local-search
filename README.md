@@ -206,10 +206,6 @@ This project is useful for:
 
 Research background: [Project Report](./Project%20–%20Dal,%20Lis%20-%20Carbon-Aware%20GPU%20Jobs%20Scheduling%20via%20Local%20Search%20methods%20-%2013:05:2026.pdf)
 
-## License
-
-GNU General Public License v3.0
-
 ## Authors
 
 - Mustafa Dal
