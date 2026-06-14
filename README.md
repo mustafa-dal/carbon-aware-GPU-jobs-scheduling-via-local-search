@@ -208,8 +208,9 @@ Research background: [Project Report](./Project%20–%20Dal,%20Lis%20-%20Carbon-
 
 ## License
 
-[Add your license here]
+GNU General Public License v3.0
 
 ## Authors
 
-[Add authors/contributors here]
+Mustafa Dal
+Mateusz Miroslaw Lis
